@@ -17,16 +17,15 @@ A web-based platform for managing a cozy cafe's menu, orders, and customer inter
 - **AI Integration**: xAI API for chatbot functionality
 - **Fonts**: Poppins, Dancing Script (Google Fonts)
 - **Icons**: Unicode emojis and custom SVGs
-- **Deployment**: (TBD, e.g., Vercel for frontend, Heroku for backend)
 
 ## Installation
 ### Prerequisites
 - Node.js (v16 or higher)
 - MongoDB (local or cloud instance like MongoDB Atlas)
-- xAI API key (for chatbot integration)
 
 ### Backend Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/cafe-application.git
    cd cafe-application/backend
+
