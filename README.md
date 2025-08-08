@@ -1,6 +1,6 @@
 # Cafe Application ☕
 
-A web-based platform for managing a cozy cafe's menu, orders, and customer interactions. The application features a feminine and cute UI/UX design, an admin dashboard for menu and order management, and an AI-powered chatbot for customer support.
+A web-based platform for managing a cozy cafe's menu, orders, and customer interactions. an admin dashboard for menu and order management, and an AI-powered chatbot for customer support.
 
 > **Note**: This project is currently in development. Some features are still being implemented or planned for future releases.
 
@@ -28,4 +28,5 @@ A web-based platform for managing a cozy cafe's menu, orders, and customer inter
    ```bash
    git clone https://github.com/your-username/cafe-application.git
    cd cafe-application/backend
+
 
